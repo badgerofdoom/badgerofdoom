@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @badgerofdoom
-- 👀 I’m interested in Data Science, SQL, Python
-- 🌱 I’m currently learning Python, jenkins, docker, APIs
+- 👀 I’m interested in Data Science, SQL, Python, data engineering
+- 🌱 I’m currently learning Python, jenkins, docker, APIs, airflow
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
